@@ -44,3 +44,17 @@ h1{
 h2{
 	font-size: 1.25rem;
 }
+
+input {
+	height:1.5rem;
+	margin: .25rem;
+	font-size: calc(2rem / 3);
+	padding: 0;
+	border: 1px solid #666;
+	border-radius: 2px;
+	padding: 0 calc(1rem / 3);
+}
+
+input[type="submit"]{
+	cursor: pointer;
+}
