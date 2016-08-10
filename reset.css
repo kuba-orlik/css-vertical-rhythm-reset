@@ -31,7 +31,7 @@ img{
 	vertical-align:bottom;
 }
 
-h1, h2{
+h1, h2, h3{
 	margin-top: 1rem;
 	line-height:2rem;
 	color: #333;
@@ -44,6 +44,7 @@ h1{
 h2{
 	font-size: 1.25rem;
 }
+
 
 input {
 	height:1.5rem;
